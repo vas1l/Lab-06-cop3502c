@@ -12,5 +12,5 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 a = int(input("enter a number"))
 b = int(input("enter a number"))
-c = int(a + b)
+c = int(a - b)
 print(c)
